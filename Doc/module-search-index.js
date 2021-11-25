@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"com.translatorfx.translatorfx"}];updateSearchResults();
